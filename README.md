@@ -2,8 +2,8 @@
   <h1>Hi 👋, I'm Ahmad (Cruze)</h1>
   <p><strong>Electrical Engineering Student | Aspiring Backend Developer</strong></p>
   
-  <a href="https://skiupace.dev/">Portfolio</a> • 
-  <a href="https://skiupace.dev/blog">Blog</a> • 
+  <a href="https://cruze.click/">Portfolio</a> • 
+  <a href="https://cruze.click/blog">Blog</a> • 
   <a href="mailto:ahmad.ee2lyan@gmail.com">Email</a>
   
   <br/><br/>
@@ -47,11 +47,5 @@ I specialize in building efficient systems and scalable backend architectures. I
 
 ### 🤝 Connect
 <p align="center">
-<a href="https://twitter.com/itsahmadz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/itsAhmadz"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ahmad-elyan-78264b36a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/c/itscruze"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-</p>
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadrun&theme=tokyonight&column=7&no-bg=true" />
-</p>
