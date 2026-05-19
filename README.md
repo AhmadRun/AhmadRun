@@ -17,7 +17,7 @@ I specialize in building efficient systems and scalable backend architectures. I
 
 - 🌱 **Currently:** Mastering Advanced Backend Systems & Go.
 - 🐧 **Environment:** Arch Linux & Fedora.
-- ⚡ **Fun Fact:** Lost 40kg through pure discipline—I apply that same grit to my code.
+
 
 ---
 
