@@ -25,10 +25,10 @@ I specialize in building efficient systems and scalable backend architectures. I
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `Python`, `TypeScript`, `JavaScript`, `C++`, `C#`, `SQL` |
-| **Backend** | `Node.js`, `PostgreSQL`, `REST APIs`, `FastAPI` |
-| **Frontend** | `React`, `Svelte`, `TailwindCSS`, `HTML5` |
-| **DevOps** | `Linux`, `Git`, `Docker`, `Bash`, `Nginx` |
+| **Languages** | `Python`,`C++`|
+| **Backend** |`FastAPI` |
+| **Frontend** | ` css ` , `HTML5` |
+| **DevOps** | `Linux`, `Git`, `Docker`, `Bash` |
 
 ---
 
